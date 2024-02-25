@@ -4,6 +4,12 @@ Accelerate the training of machine learning models with TensorFlow right on your
 
 [`Reference`](https://developer.apple.com/metal/tensorflow-plugin/)
 
+## Requirements
+- Mac computers with Apple silicon or AMD GPUs
+- macOS 12.0 or later (Get the latest beta)
+- Python 3.8 or later
+- Xcode command-line tools: xcode-select --install
+
 ### Installing tensorflow for macos
 ```bash
 python3 -m pip install tensorflow-macos
